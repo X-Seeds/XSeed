@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/AntDesign" Path="C:\Users\hibru\.nuget\packages\antdesign\0.3.0-nightly-2009100225\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/XSeed" Path="D:\Source\XSeed\src\XSeed\obj\Debug\net5.0\scopedcss\" />
+</StaticWebAssets>
