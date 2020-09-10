@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\XSeed\\XSeed.Data\\XSeed.Data.csproj",
+      "projectUniqueName": "D:\\Source\\XSeed\\src\\XSeed.Data\\XSeed.Data.csproj",
       "projectName": "XSeed.Data",
-      "projectPath": "D:\\Source\\XSeed\\XSeed.Data\\XSeed.Data.csproj",
+      "projectPath": "D:\\Source\\XSeed\\src\\XSeed.Data\\XSeed.Data.csproj",
       "packagesPath": "C:\\Users\\hibru\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\XSeed\\XSeed.Data\\obj\\",
+      "outputPath": "D:\\Source\\XSeed\\src\\XSeed.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hibru\\AppData\\Roaming\\NuGet\\NuGet.Config",
