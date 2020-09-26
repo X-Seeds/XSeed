@@ -1,0 +1,9 @@
+D:\Source\XSeed\src\XSeed.Data\bin\Debug\netstandard2.1\XSeed.Data.deps.json
+D:\Source\XSeed\src\XSeed.Data\bin\Debug\netstandard2.1\XSeed.Data.dll
+D:\Source\XSeed\src\XSeed.Data\bin\Debug\netstandard2.1\XSeed.Data.pdb
+D:\Source\XSeed\src\XSeed.Data\obj\Debug\netstandard2.1\XSeed.Data.csprojAssemblyReference.cache
+D:\Source\XSeed\src\XSeed.Data\obj\Debug\netstandard2.1\XSeed.Data.AssemblyInfoInputs.cache
+D:\Source\XSeed\src\XSeed.Data\obj\Debug\netstandard2.1\XSeed.Data.AssemblyInfo.cs
+D:\Source\XSeed\src\XSeed.Data\obj\Debug\netstandard2.1\XSeed.Data.csproj.CoreCompileInputs.cache
+D:\Source\XSeed\src\XSeed.Data\obj\Debug\netstandard2.1\XSeed.Data.dll
+D:\Source\XSeed\src\XSeed.Data\obj\Debug\netstandard2.1\XSeed.Data.pdb
